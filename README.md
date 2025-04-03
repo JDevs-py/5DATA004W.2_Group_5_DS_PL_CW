@@ -13,3 +13,4 @@ The analysis uses data taken from various sources so that we could
 come to a conclusion as to finding the best course of action to optimising the shoe cleaning process.
 This is our first time working together as a team and working for an organisation.
 
+Uploaded the cleaned datasets by resole
